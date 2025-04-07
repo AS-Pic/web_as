@@ -1,0 +1,35 @@
+/* Supprime les marges et les paddings par défaut */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Réinitialise la taille de police et la hauteur de ligne */
+html {
+    font-size: 100%; /* 16px par défaut */
+    line-height: 1.5;
+}
+
+/* Supprime les styles par défaut des listes */
+ul, ol {
+    list-style: none;
+}
+
+/* Supprime les styles par défaut des liens */
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Réinitialise les styles des images et vidéos */
+img, video {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Réinitialise les styles des tableaux */
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}

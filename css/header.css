@@ -1,6 +1,21 @@
 
+.navbar_container {
+    background-color: #ACC7FF;
+    height: 70px;
+    align-content: center;
+    padding: 10px;
+
+}
+
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 ul {
     list-style: none;
     display: flex;
-    gap: 16vw;
+    gap: 7vw;
 }
