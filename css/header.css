@@ -19,7 +19,7 @@ ul {
     gap: 7vw;
 }
 
-.img_header_container {
+.bottom_header_container {
     padding: 0 35px;
     padding-top: 40px;
     padding-bottom: 40px;
@@ -28,4 +28,16 @@ ul {
 
 .img_header {
     border-radius: 12px;
+}
+
+.txt_img {
+    position: absolute;
+    bottom: 35px;
+    left: 40px;
+    color: white;
+    
+}
+
+.img_header_container {
+    position: relative;
 }
