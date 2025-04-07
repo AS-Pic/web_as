@@ -8,7 +8,9 @@
 /* Réinitialise la taille de police et la hauteur de ligne */
 html {
     font-size: 100%; /* 16px par défaut */
+    font-family: Helvetica;
     line-height: 1.5;
+
 }
 
 /* Supprime les styles par défaut des listes */

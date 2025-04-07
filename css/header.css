@@ -1,9 +1,9 @@
 
-.navbar_container {
+.upper_container {
     background-color: #ACC7FF;
     height: 70px;
     align-content: center;
-    padding: 10px;
+    padding: 15px;
 
 }
 
@@ -19,6 +19,8 @@ ul {
     gap: 7vw;
 }
 
+
+
 .bottom_header_container {
     padding: 0 35px;
     padding-top: 40px;
@@ -28,6 +30,7 @@ ul {
 
 .img_header {
     border-radius: 12px;
+    border: 2px solid black;
 }
 
 .txt_img {
