@@ -1,9 +1,10 @@
 
-.upper_container {
+.upper_header_container {
     background-color: #ACC7FF;
     height: 70px;
     align-content: center;
     padding: 15px;
+    border: 1px solid black;
 
 }
 
